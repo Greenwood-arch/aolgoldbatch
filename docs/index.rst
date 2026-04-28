@@ -6,7 +6,7 @@ If you're an AOL subscriber and need to reinstall your software, the best soluti
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://aolgolddesk.github.io" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started AOL Desktop Gold</a>
+       <a href="https://myaolgold.vercel.app/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started AOL Desktop Gold</a>
    </div>
 
 Whether you're setting up a new computer or troubleshooting an old installation, this guide will walk you through how to **download AOL Desktop Gold existing member**, log in, and access your email, favorites, and saved data without hassle. The process is straightforward, and you can restore your complete AOL Desktop experience in just a few minutes.
